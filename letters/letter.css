@@ -1,0 +1,7 @@
+body{margin:0;font:18px/1.7 Georgia,"Times New Roman",serif;color:#1d2433;background:#fbfaf7}
+nav,main,footer{max-width:720px;margin:0 auto;padding:16px 20px}
+nav{font:15px system-ui,sans-serif}a{color:#2453d6}
+h1{font-size:2rem;line-height:1.25;margin:.5em 0 .2em}
+.meta{color:#5b6475;font:15px system-ui,sans-serif;margin-top:0}
+.list{padding-left:1.2em}.list li{margin:0 0 1.2em}.list p{margin:.2em 0;color:#3a4256}
+footer{color:#5b6475;font:14px system-ui,sans-serif;border-top:1px solid #e3e1da;margin-top:24px}
