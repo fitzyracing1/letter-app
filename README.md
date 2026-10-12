@@ -82,3 +82,8 @@ at the domain root, so the generated one only applies to a user site or custom d
 indexed, submit `sitemap.xml` in Google Search Console or Bing Webmaster Tools.
 
 `letters.log` starts empty (header directives only).
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/letter-app/wiki](https://github.com/fitzyracing1/letter-app/wiki)
